@@ -1,0 +1,66 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test2.com" resolutions="1x" timestamp="1512746163883">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3917921298" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="packmanbg.jpg" crc="155750184" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u117.png" crc="4218401048" ref="index"/>
+    <file name="u117-r.png" crc="3887689807" ref="index"/>
+    <file name="u117-a.png" crc="3774804128" ref="index"/>
+    <file name="u240.png" crc="462805634" ref="index"/>
+    <file name="u240-r.png" crc="531872135" ref="index"/>
+    <file name="u240-a.png" crc="471066487" ref="index"/>
+    <file name="u259.png" crc="46772418" ref="index"/>
+    <file name="u259-r.png" crc="4021912188" ref="index"/>
+    <file name="u259-a.png" crc="118977931" ref="index"/>
+    <file name="u281.png" crc="3807293155" ref="index"/>
+    <file name="u281-r.png" crc="315206589" ref="index"/>
+    <file name="u281-a.png" crc="182991724" ref="index"/>
+    <file name="characterselect.png" crc="333041582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u312-17.png" crc="4018552192" ref="index"/>
+    <file name="u298-4.png" crc="4233307961" ref="index"/>
+    <file name="u320.png" crc="170326063" ref="index"/>
+    <file name="u320-r.png" crc="528702186" ref="index"/>
+    <file name="u320-a.png" crc="156983241" ref="index"/>
+    <file name="u315-10.png" crc="526831307" ref="index"/>
+    <file name="u527-45.png" crc="3959669941" ref="index"/>
+    <file name="u531-59.png" crc="367578846" ref="index"/>
+    <file name="u534-28.png" crc="188419364" ref="index"/>
+    <file name="ogre.jpg" crc="159590663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardiackscreen01.jpg" crc="223794330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="itsenaisyyskattely.jpg" crc="3984342291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="travellingm.jpg" crc="85127621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neon.jpg" crc="4069671065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="342970592" seo="true" mt="1512746125935" redirect="true"/>
+</manifest>
