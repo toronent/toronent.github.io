@@ -1,5 +1,63 @@
+
 <!DOCTYPE html>
+
 <html>
+<head>
+	<title>Portfolio</title>
+	<link href="CSS/style.css" rel="stylesheet" type="text/css">
+	
+
+</head>
 <body>
-Wadap
+<div class="main">
+<div class="header">&nbsp;</div>
+
+<ul>
+	<li><a href="index.html">Home</a></li>
+	<li><a href="quests.html">History</a></li>
+	<li><a href="achievements.html">Products</a></li>
+	<li><a href="showcase.html">Staff</a></li>
+</ul>
+
+<div class="content"><br />
+<br />
+<h1><center>Some welcome text</center></h1>
+<center><p>Tablestuff<br />
+More stuff<br />
+More stuff2<br />
+More stuff3<br>
+<br />
+<center><img id="startImage" src="images/businessman1.jpg"></center>
+	
+<script>
+var images = new Array()
+var images = ["images/businessman1.jpg","images/businessman2.png","images/businessman3.png","images/businesswoman.jpeg", "images/businessman4.jpg"];
+var index=1;
+var startingImage = document.getElementById("startImage");
+
+startingImage.height =150;
+startingImage.widht =150;
+
+function displayImages()
+{
+startingImage.setAttribute("src", images[index]);
+index++;
+if(index >= images.length)
+  {
+    index=0;
+  }
+}
+
+setInterval(displayImages, 1500);
+
+</script>
+
+<br />
+<br /><br />
+<br />
+<br />
+<br />
+</div>
+</div>
+</body>
 </html>
