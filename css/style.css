@@ -1,0 +1,79 @@
+body{
+   background-image: url("packmanbg.jpg");
+   background-repeat: repeat;
+	background-color:#000000;
+}
+#wrap{
+ width:900px;
+  margin:15px auto 15px auto;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:18px;
+  color:#666666;
+  background-color:black;
+}
+
+#header{
+  height:auto;
+  margin:0px auto 0px auto;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:24px;
+  color:#A52A2A;
+}
+#topbar{
+	height:78px;
+}
+#topmenu{
+	display:block;
+	list-style:none;
+	padding:0px 0px 10px 0px;
+	float: right;
+	width:auto;
+	background-color:gray;
+}
+#topmenu li{
+	display:inline;
+}
+#topmenu a{
+	display:block;
+	float:left;
+	height:15px;
+	margin:0px 0px 0px 0px;
+	text-decoration:none;
+	padding:0px 5px 10px 10px;
+	text-align:center;
+}
+#topmenu a, #topmenu a:visited, #topmenu a:active{
+	color:#FFFFFF;
+}
+#topmenu a:hover{
+	color:#ffffff;
+	background-color: #B52E10;
+}
+#topmenu .active a, #topmenu .active a:active{
+	color:#FFFFFF;
+	background-color:#B42D0F;
+}
+
+#footer{
+	height:100px;
+	text-align:center;
+	background-color:gray;
+}
+#footer p{
+	padding-top:50px;
+	color:white;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+th{
+	width:210px;
+}
+
+#div1 {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+}
